@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>house.ru</title>
+    </head>
+    <frameset rows="10%, 90%" farmeborder="yes">
+        <frame src="../public_html/shapka.html" noresize/>
+            <frameset cols="25%, 75%", frameborder="yes">
+                <frame src="../public_html/menu.html"/>
+                <frame src="../public_html/main.html" name="main"></frame>
+            </frameset>
+    </frameset>
+</html>
